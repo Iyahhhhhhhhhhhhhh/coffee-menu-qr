@@ -1,2 +1,1 @@
-flask
-qrcode[pil]
+flask and requests
